@@ -75,7 +75,7 @@ BOARD_FLASH_BLOCK_SIZE := 131072
 TARGET_KMODULES := true
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := namath,namath_54,Moto_C,Moto C,C
+TARGET_OTA_ASSERT_DEVICE := namath,namath_54,namath_55,namath_56,namath_57,Moto_C,Moto C,C
 
 # Disable memcpy opt (for audio libraries)
 TARGET_CPU_MEMCPY_OPT_DISABLE := true
